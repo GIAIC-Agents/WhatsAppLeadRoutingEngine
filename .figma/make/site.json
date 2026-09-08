@@ -1,0 +1,10 @@
+{
+  "description": "Streamline WhatsApp lead management with automated routing to sales agents, enhancing efficiency and conversation ownership for businesses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
